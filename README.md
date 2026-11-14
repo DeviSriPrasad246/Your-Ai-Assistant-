@@ -31,5 +31,5 @@ A safe, honest AI chatbot that runs fully on your own computer. No API keys and 
 
 ## Limitations
 - Built on a small open-source model (Llama 3.2 1B). It can still make mistakes, so important information should be verified.
-- The safety filter is rule-based (version 1) and cannot catch everything.
+- The safety filter is rule-based (version 2) and cannot catch everything.
 - It has no live internet access, so it cannot answer about today's news or weather.
